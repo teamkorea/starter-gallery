@@ -15,7 +15,7 @@ Release Date: January 29, 2017
 
 ## Updated Components
 
-- Changed views from trivial to basic
+- Changed views from trivial to basic website
     - Kevin Tieu
 
 - Changed title in application/core/MY_Controller.php
